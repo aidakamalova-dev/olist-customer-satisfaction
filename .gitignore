@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Данные и База данных
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+data/
+datasets/
+
+# Временные файлы Jupyter и Colab
+.ipynb_checkpoints/
